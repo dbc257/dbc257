@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Hey there! I'm David Carlisle.</h2>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 💼 &nbsp; Working as a Freelance Full Stack Software Developer & open to work opportunities.
+- 🌱 &nbsp; Learning everything!
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; PostgreSQL | ElephantSQL | AWS
+- 🔧 &nbsp; Git | Markdown 
+
+
+<br/>
+
+[![dbc257's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbc257&show_icons=true)](https://github.com/dbc257)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.davidcarlisle.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.davidcarlisle.me/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/dbc257/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Carlisle%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:dave_0021@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-dave_0021@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [dbc257](https://github.com/dbc257)
