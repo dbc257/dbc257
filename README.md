@@ -21,8 +21,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
-<a href="https://www.davidcarlisle.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.davidcarlisle.me/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/dbc257/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Carlisle%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.davidcarlisle.me/" target-"_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.davidcarlisle.me/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/dbc257/" target-"_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Carlisle%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dave_0021@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-dave_0021@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
