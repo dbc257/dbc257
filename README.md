@@ -1,4 +1,4 @@
-<h2> Hello there! 👋  I'm David Carlisle.</h2>
+<h2> 👋 Hello there! I'm David Carlisle.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
