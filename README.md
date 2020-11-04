@@ -2,15 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a Freelance Full Stack Software Developer & open to work opportunities.
+- 💼 &nbsp; Working as a Full Stack Software Engineer at DigitalCrafts & open to work opportunities.
 - 🌱 &nbsp; Learning everything!
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; PostgreSQL | ElephantSQL | AWS
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | React Bootstrap | Node.js | Express.js | Sequelize.js | React.js
+- 🛢 &nbsp; SQL | PostgreSQL | ElephantSQL | AWS
 - 🔧 &nbsp; Git | Markdown 
 
 
