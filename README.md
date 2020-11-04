@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
+- 💻 &nbsp; Python 3
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | React Bootstrap | Node.js | Express.js | Sequelize.js | React.js | Redux.js
 - 🛢 &nbsp; SQL | PostgreSQL | ElephantSQL | AWS
 - 🔧 &nbsp; Git | Markdown 
