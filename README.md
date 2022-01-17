@@ -2,16 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a Full Stack Software Engineer at DigitalCrafts & open to work opportunities.
-- 🌱 &nbsp; Learning everything!
+- 💼 &nbsp; Working as a Software Developer at Infodat International, Inc.
+- 🌱 &nbsp; I'm looking for a full-time job that is 100% remote work.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 3
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | React Bootstrap | Node.js | Express.js | Sequelize.js | React.js | Redux.js
-- 🛢 &nbsp; SQL | PostgreSQL | ElephantSQL | AWS
-- 🔧 &nbsp; Git | Markdown 
+- 🌐 &nbsp; Angular | TypeScript | React | Redux | JavaScript | HTML | CSS | SCSS | Node.js
+- 🛢 &nbsp; PostgreSQL | SQL
+- 🔧 &nbsp; Git | Markdown
 
 
 <br/>
@@ -35,7 +34,8 @@
  align="center"
 
 Here are some ideas to get you started:
-
+- 💻 &nbsp; Python 3
+- 🌐 &nbsp; Angular | TypeScript | React | Redux | JavaScript | HTML | CSS | SCSS | Node.js
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
