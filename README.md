@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; Working as a Software Developer at Infodat International, Inc.
 - 🌱 &nbsp; I'm looking for a new full-time job that is 100% remote work.
-- 💻 &nbsp; I have 5 years of experience as a Software Developer. 
+- 💻 &nbsp; I have 2 years of experience as a Software Developer. 
 
 
 <h3>🛠 Tech Stack</h3>
